@@ -11,7 +11,7 @@ The growing dissemination of fake news poses a threat to public trust and inform
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-The objective of this case study is to develop Semantic Classification model using Word2Vec method to extract the semantic relations from the text.Supervised models will be used categorise text based on its meaning, rather than just syntax. Textual meaning plays a critical role in making accurate and efficient decisions.
+The objective of this case study is to develop Semantic Classification model using Word2Vec method to extract the semantic relations from the text. Supervised models will be used to categorise text based on its meaning, rather than just syntax. Textual meaning plays a critical role in making accurate and efficient decisions.
 
 The target is to create a fake news detection system using semantic classification techniques. By leveraging the Word2Vec model and traditional supervised learning algorithms like Logistic Regression, Decision Tree, and Random Forest, the system aims to classify news articles as either true or fake based on their textual content. The analysis is supported by extensive data preprocessing, exploratory data analysis, and model evaluation to ensure reliability and performance.
 ## Conclusions
